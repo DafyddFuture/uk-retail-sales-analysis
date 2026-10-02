@@ -58,6 +58,8 @@ The final forecast projects annual retail sales-volume growth of approximately 2
 
 ### Dashboard preview
 
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/dafydd.jones2594/viz/UKRetailSalesAnalysisandForecasting/UKRetailSalesDashboard)
+
 ![UK Retail Sales Analysis and Forecasting dashboard](tableau/uk-retail-sales-dashboard.png)
 
 ## Tableau dashboard
